@@ -99,9 +99,6 @@ COPYING, DELETING AND SEARCHING
 ### DEMO
 
 
-https://flamationstudios.com/git/images/typeitLite_firstdraft.gif
-
-
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://flamationstudios.com/git/images/typeitLite_firstdraft.gif)
 
 
