@@ -21,9 +21,9 @@ Type It Lite has you covered!  It's a lightweight JSON file creator and editor f
      Type It Lite is available on:
 
 - 💻 [**Web**](https://flamationstudios.com/apps/TypeItLite/index.html) for free. 
-- 🤔 I’m currently working on the IOS version.
-- 💻 [**Android**](https://apps.samsung.com/appquery/appDetail.as?appId=com.Flamation.TypeItLite) for free. 
-- 💻Desktop. ownload link coming soon
+- 🤔 Still on the decision on the platforms to add the IOS and MAC builds but they are ready.
+- 💻 [**Android**](https://apps.samsung.com/appquery/appDetail.as?appId=com.Flamation.TypeItLite) for $5
+- 💻Desktop. Download link coming soon
 
 -🌱 Special thanks to yashikura for his work (https://github.com/yasirkula/UnityNativeFilePicker). 
           This tool enabled me to import, export and save file with ease!
