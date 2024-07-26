@@ -22,7 +22,7 @@ Type It Lite has you covered!  It's a lightweight JSON file creator and editor f
 
 - 💻 [**Web**](https://flamationstudios.com/apps/TypeItLite/index.html) for free. 
 - 🤔 I’m currently working on the IOS version.
-- 🤔 Android version is currently being reviewed by the app store.
+- 💻 [**Android**](https://apps.samsung.com/appquery/appDetail.as?appId=com.Flamation.TypeItLite) for free. 
 - 💻Desktop. ownload link coming soon
 
 -🌱 Special thanks to yashikura for his work (https://github.com/yasirkula/UnityNativeFilePicker). 
